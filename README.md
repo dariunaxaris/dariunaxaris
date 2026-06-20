@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+There it is. Download it and upload to GitHub.
+
+**Before you do — fix this first:**
+Rename your GitHub repo from `usama-bukhari-` to `dariunaxaris.github.io` or the site won't go live properly.
